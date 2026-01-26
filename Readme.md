@@ -1,7 +1,7 @@
 # Ejector ⏏️
 
-> **Instant Home Ejection System with Industrial Haptics.**
-> デジタル空間からの「物理的」な脱出体験。
+> **Easily complete your Daily Quest.**
+> 『その一瞬のラグを、飛び越えろ。』
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple) ![API](https://img.shields.io/badge/API-34%2B-green)
 
